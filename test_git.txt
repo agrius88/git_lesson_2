@@ -1,5 +1,5 @@
 #Autor Igor
-Hello, Git!
+Hello, git!
 Hello, World!2
 Hello C++!
 #@2018
