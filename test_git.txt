@@ -1,2 +1,3 @@
 Hello, Git!
-Hello, World!22
+Hello, World!2
+Hello C++!
